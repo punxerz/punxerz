@@ -1,3 +1,5 @@
+https://github.com/Darktron/ccminer.git
+
 
 https://github.com/hellcatz/hminer/releases/download/v0.59.1/hellminer_linux64.tar.gz
 
